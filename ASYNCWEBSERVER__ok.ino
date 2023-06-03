@@ -4,8 +4,8 @@
 #include <ESPAsyncWebServer.h>
 
 // Replace with your network credentials
-const char* ssid = "U+NetE51C";
-const char* password = "DA9969P73#";
+const char* ssid = "";
+const char* password = "";
 
 const char* PARAM_INPUT_1 = "output";
 const char* PARAM_INPUT_2 = "state";
